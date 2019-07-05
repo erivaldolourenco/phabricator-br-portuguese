@@ -2172,6 +2172,8 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'November' => 'Novembro',
       'December' => 'Dezembro',
 
+      '%s closed this task as %s.' => '%s fechou esta tarefa como %s.',
+      '%s created this task.' => '%s criou esta tarefa',
 
     );
   }
