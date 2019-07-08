@@ -2294,7 +2294,14 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment.' => 'Não habite no passado, não sonhe com o futuro, concentre a mente no momento presente.',
       'Focus' => 'Foco',
 
-
+      //Projetos
+      'Workboard' => 'Quadro de Trabalho',
+      'Members' => 'Membros',
+      'Members and Watchers' => 'Membros e observadores',
+      'Subprojects' => 'Subprojetos',
+      'Subprojects and Milestones' => 'Subprojetos e Marcos',
+      'Manage' => 'Gerenciar',
+      'Project History' => 'História do Projeto',
     );
   }
 
