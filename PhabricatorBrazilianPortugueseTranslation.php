@@ -289,8 +289,8 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       ),
 
       '%s Assigned Task(s)' => array(
-        '%s Assigned Task',
-        '%s Assigned Tasks',
+        '%s Tarefa atribuída',
+        '%s Tarefas atribuídas',
       ),
 
       'Show %d Lint Message(s)' => array(
@@ -2255,13 +2255,13 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'No builds found.' => 'Сборок не найдено.',
 
       // Files
-      'Files' => 'Файлы',
-      'Store and Share Files' => 'Хранение и распространение файлов',
-      'Drop Files to Upload' => 'Бросьте файлы для загрузки',
-      'Image' => 'Изображение',
-      'Countdown to Events' => 'Обратный отсчёт для событий',
-      'Uploaded by %s on %s' => 'Загружено %s в %s',
-      'Masterfully imagined by %s on %s.' => 'Мастерски представлено %s в %s.',
+      'Files' => 'Arquivos',
+      'Store and Share Files' => 'Armazenar e compartilhar arquivos',
+      'Drop Files to Upload' => 'Solte arquivos para upload',
+      'Image' => 'Imagem',
+      'Countdown to Events' => 'Contagem regressiva para eventos',
+      'Uploaded by %s on %s' => 'ЗEnviado por %s em %s',
+      'Masterfully imagined by %s on %s.' => 'Magistralmente imaginado por %s em %s.',
 
       // Settings
       'Settings' => 'Configurações',
