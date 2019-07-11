@@ -129,8 +129,8 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Tooltip' => 'Tooltip',
       'Recent Activity' => 'Atividade Recente',
       '%s mentioned this in %s.' => '%s mencionou isso em %s.',
-      '%s changed the visibility from "%s" to "%s".' => '%s alterou a visibilidade de "%s" para "%s".',
-      '%s changed the edit policy from "%s" to "%s".' => '%s alterou a política de edição de "%s" para "%s".',
+      '%s changed the visibility from %s to %s.' => '%s alterou a visibilidade de %s para %s.',
+      '%s changed the edit policy from %s to %s.' => '%s alterou a política de edição de %s para %s.',
       'Choose which language you would like the Phabricator UI to use.' => 'Escolha qual idioma você quer que o Phabricator utilize.',
       'Choose the pronoun you prefer.' => 'Escolha o pronome que você prefere.',
       'Menu Items' => 'Itens do Menu',
@@ -167,7 +167,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'This object is already in that space.' => 'Esse objeto já está neste espaço.',
       'Edges already exist; transaction has no effect.' => 'Bordas já existem; a transação não tem efeito.',
       'You have not moved this object to any columns it is not already in.' => 'Você não moveu esse objeto para nenhuma coluna onde já não estivesse.',
-      'Transaction (of type "%s") has no effect.' => 'Transação (do tipo "%s") não tem efeito.',
+      'Transaction (of type %s) has no effect.' => 'Transação (do tipo %s) não tem efeito.',
       'Download' => 'Download',
       'Changes from before your most recent comment are hidden.' => 'Alterações anteriores ao seu comentário mais recente estão ocultas.',
       'There are a very large number of changes, so older changes are hidden.' =>
@@ -199,9 +199,9 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Executive' => 'Executivo',
       'Animal' => 'Animal',
 
-      'No daemon(s) with id(s) "%s" exist!' => array(
-        'Não existe nenhum daemon com o id "%s"!',
-        'Não existem daemons com os ids "%s"!',
+      'No daemon(s) with id(s) %s exist!' => array(
+        'Não existe nenhum daemon com o id %s!',
+        'Não existem daemons com os ids %s!',
       ),
 
       'These %d configuration value(s) are related:' => array(
@@ -1604,10 +1604,10 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
         '%s Days Ago',
       ),
 
-      'Setting retention policy for "%s" to %s day(s).' => array(
+      'Setting retention policy for %s to %s day(s).' => array(
         array(
-          'Setting retention policy for "%s" to one day.',
-          'Setting retention policy for "%s" to %s days.',
+          'Setting retention policy for %s to one day.',
+          'Setting retention policy for %s to %s days.',
         ),
       ),
 
@@ -1849,9 +1849,9 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
         '%s objects.',
       ),
 
-      'Destroyed %s credential(s) of type "%s".' => array(
+      'Destroyed %s credential(s) of type %s.' => array(
         'Destroyed one credential of type "%2$s".',
-        'Destroyed %s credentials of type "%s".',
+        'Destroyed %s credentials of type %s.',
       ),
 
       '%s notification(s) about objects which no longer exist or which '.
@@ -2406,25 +2406,25 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
 
       '%s created this task.' => '%s criou esta tarefa',
       '%s renamed this task from %s to %s.' => '%s renomeou essa tarefa de с %s para %s.',
-      '%s closed %s as "%s".' => '%s fechou %s como "%s".',
+      '%s closed %s as %s.' => '%s fechou %s como %s.',
       '%s updated the image for %s from %s to %s.' => '%s atualizou a imagem para %s de %s para %s.',
-      '%s lowered the priority of %s from "%s" to "%s".' => '%s diminuiu a prioridade de %s de "%s" para "%s".',
-      '%s changed the status of %s from "%s" to "%s".' => '%s mudou o status do %s de "%s" para "%s".',
+      '%s lowered the priority of %s from %s to %s.' => '%s diminuiu a prioridade de %s de %s para %s.',
+      '%s changed the status of %s from %s to %s.' => '%s mudou o status do %s de %s para %s.',
       'Weigh In' => 'Pesar em',
       '%s added a comment.' => '%s adicionou um comentário..',
       '%s closed this task as a duplicate.' => '%s fechou esta tarefa como uma duplicata.',
-      '%s closed this task as "%s".' => '%s fechou esta tarefa como "%s".',
+      '%s closed this task as %s.' => '%s fechou esta tarefa como %s.',
       '%s placed this task up for grabs.' => '%s colocou esta tarefa em disputa.',
       '%s placed %s up for grabs.' => '%s colocou %s em disputa.',
       '%s assigned this task to %s.' => '%s atribuiu essa tarefa para %s.',
       '%s claimed this task.' => '%s pegou essa tarefa.',
       '%s updated subscribers...' => '%s assinantes atualizados...',
-      '%s triaged this task as "%s" priority.' => '%s triou esta tarefa com prioridade "%s".',
+      '%s triaged this task as %s priority.' => '%s triou esta tarefa com prioridade %s.',
       '%s removed %s as the assignee of this task.' => '%s removeu %s como o cessionário desta tarefa.',
-      '%s raised the priority of this task from "%s" to "%s".' => '%s levantou a prioridade desta tarefa de "%s" para "%s".',
-      '%s reopened this task as "%s".' => '%s reabriu esta tarefa como "%s".',
+      '%s raised the priority of this task from %s to %s.' => '%s levantou a prioridade desta tarefa de %s para %s.',
+      '%s reopened this task as %s.' => '%s reabriu esta tarefa como %s.',
       '%s changed the task status from %s to %s.' => '%s mudou o status da tarefa de %s para %s',
-      '%s lowered the priority of this task from "%s" to "%s".' => '%s diminuiu a prioridade desta tarefa de "%s" para "%s".',
+      '%s lowered the priority of this task from %s to %s.' => '%s diminuiu a prioridade desta tarefa de %s para %s.',
       '%s edited associated projects.' => '%s projetos associados editados.',
       '%s awarded a token.' => '%s premiado com um token.',
       '%s set %s to %s.' => '%s setar %s para %s.',
@@ -2508,7 +2508,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Active' => 'Ativo',
       '%s created this project.' => '%s criou este projeto.',
       "%s set this project's icon to %s." => '%s definir o icone deste projeto %s.',
-      '%s renamed this project from "%s" to "%s".' => '%s Renomeou esse projeto de "%s" para "%s".',
+      '%s renamed this project from %s to %s.' => '%s Renomeou esse projeto de %s para %s.',
       "%s set this project's color to %s." => '%s Inserir a cor desse projeto  %s.',
       "%s changed the default filter for the project workboard." => '%s Alterar o filtro padrão do quadro de trabalho do projeto.',
       "Edit Details" => "Editar Detalhes",
@@ -2558,17 +2558,17 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       '%s edited the description of %s.' => '%s editou a descrição de %s.',
       '%s edited the content of %s.' => '%s editou o conteudo de %s.',
       '%s awarded %s a %s token.' => '%s premiou %s com um token %s.',
-      '%s triaged %s as "%s" priority.' => '%s triou %s como prioridade "%s".',
+      '%s triaged %s as %s priority.' => '%s triou %s como prioridade %s.',
       '%s changed the visibility for %s.' => '%s mudou a visibildiade para %s.',
       '%s changed the name of %s from %s to %s.' => '%s mudou o nome de %s para %s на %s.',
       '%s changed the start date of %s from %s to %s.' => '%s mudou data inicial %s de %s para %s.',
       '%s set the icon for %s to %s.' => '%s definir a icone para %s por %s.',
       '%s set the image for %s to %s.' => '%s definir a imagem para %s por %s.',
       '%s set the color for %s to %s.' => '%s definir a cor para %s por %s.',
-      '%s renamed %s from "%s" to "%s".' => '%s denomeado %s de "%s" para "%s".',
-      '%s created this object with visibility "%s".' => '%s criou este objeto com visibilidade "%s".',
-      '%s created this object with edit policy "%s".' => '%s criou este objeto com a política de edição "%s".',
-      '%s created this object with join policy "%s".' => '%s criou este objeto com política de junção "%s".',
+      '%s renamed %s from %s to %s.' => '%s denomeado %s de %s para %s.',
+      '%s created this object with visibility %s.' => '%s criou este objeto com visibilidade %s.',
+      '%s created this object with edit policy %s.' => '%s criou este objeto com a política de edição %s.',
+      '%s created this object with join policy %s.' => '%s criou este objeto com política de junção %s.',
       '%s created this object in space %s.' => '%s criou este objeto no espaço %s.',
       '%s shifted this object from the %s space to the %s space.' => '%s deslocou este objeto do espaço %s  para o espaço %s.',
       "%s updated this project's image from %s to %s." => "%s atualizou a imagem deste projeto de %s para %s.",
