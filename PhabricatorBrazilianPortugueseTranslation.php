@@ -82,7 +82,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Add Action...' => 'Adicionar Ação...',
       'Move on Workboard' => 'Mover no Quadro de Trabalho',
       'Change Project Tags' => 'Alterar Tags do Projeto',
-      'Change Subscribers' => 'Alterar Inscritos',
+      'Change Subscribers' => 'Alterar Contribuintes',
       'Change Status' => 'Mudar Status',
       'Change Priority' => 'Mudar Prioridade',
       'Assign / Claim' => 'Atribuir / Pegar',
@@ -112,7 +112,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Description' => 'Descrição',
       'Comments' => 'Comentários',
       'Author' => 'Autor',
-      'Subscribers' => 'Inscritos',
+      'Subscribers' => 'Contribuintes',
       'Required' => 'Requerido',
       'Visible To' => 'Visível Para',
       'Editable By' => 'Editável Por',
@@ -610,15 +610,15 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
 
       '%s added %d subscriber(s): %s.' => array(
         array(
-          '%s added a subscriber: %3$s.',
-          '%s added subscribers: %3$s.',
+          '%s Adicionou um contribuinte  : %3$s.',
+          '%s Adicionou contribuintes: %3$s.',
         ),
       ),
 
       '%s removed %d subscriber(s): %s.' => array(
         array(
-          '%s removed a subscriber: %3$s.',
-          '%s removed subscribers: %3$s.',
+          '%s removeu um contribuinte: %3$s.',
+          '%s removeu contribuintes: %3$s.',
         ),
       ),
 
