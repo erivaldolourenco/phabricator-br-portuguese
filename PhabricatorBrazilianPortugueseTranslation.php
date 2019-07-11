@@ -2615,12 +2615,12 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
 
 
       //===============================
-      'Assigned Tasks' => 'Tarefas atribuídas'
-      'No tasks found.' => 'Nenhuma tarefa encontrada.'
-      'Active Revisions' => 'Revisões Ativas'
-      'No revisions found.' => 'Nenhuma revisão foi encontrada.'
-      'Active Repositories' => 'Repositórios Ativos'
-      'No repositories found for this query.' => 'Nenhum repositório encontrado para esta consulta.'
+      'Assigned Tasks' => 'Tarefas atribuídas',
+      'No tasks found.' => 'Nenhuma tarefa encontrada.',
+      'Active Revisions' => 'Revisões Ativas',
+      'No revisions found.' => 'Nenhuma revisão foi encontrada.',
+      'Active Repositories' => 'Repositórios Ativos',
+      'No repositories found for this query.' => 'Nenhum repositório encontrado para esta consulta.',
 
     );
   }
