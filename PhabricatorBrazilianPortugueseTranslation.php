@@ -85,7 +85,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Change Subscribers' => 'Alterar Inscritos',
       'Change Status' => 'Mudar Status',
       'Change Priority' => 'Mudar Prioridade',
-      'Assign / Claim' => 'Atribuir / Reivindicar',
+      'Assign / Claim' => 'Atribuir / Pegar',
       'Take Action' => 'Tomar Ação',
       'Join' => 'Entrar',
       'Code Block' => 'Bloco de Código',
@@ -308,13 +308,13 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       ),
 
       '%s Action(s) Have No Effect' => array(
-        'Action Has No Effect',
-        'Actions Have No Effect',
+        'A ação não tem efeito',
+        'Estas ações não tem efeito',
       ),
 
       '%s Action(s) With No Effect' => array(
-        'Action With No Effect',
-        'Actions With No Effect',
+        'Ação sem efeito',
+        'Ações sem efeito',
       ),
 
       'Some of your %s action(s) have no effect:' => array(
@@ -342,8 +342,8 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
 
       '%s added %s member(s): %s.' => array(
         array(
-          '%s added a member: %3$s.',
-          '%s added members: %3$s.',
+          '%s adicionou um mebro: %3$s.',
+          '%s adicionou membros: %3$s.',
         ),
       ),
 
@@ -2417,13 +2417,13 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       '%s placed this task up for grabs.' => '%s colocou esta tarefa em disputa.',
       '%s placed %s up for grabs.' => '%s colocou %s em disputa.',
       '%s assigned this task to %s.' => '%s atribuiu essa tarefa para %s.',
-      '%s claimed this task.' => '%s reivindicou essa tarefa.',
+      '%s claimed this task.' => '%s pegou essa tarefa.',
       '%s updated subscribers...' => '%s assinantes atualizados...',
       '%s triaged this task as "%s" priority.' => '%s triou esta tarefa com prioridade "%s".',
       '%s removed %s as the assignee of this task.' => '%s removeu %s como o cessionário desta tarefa.',
       '%s raised the priority of this task from "%s" to "%s".' => '%s levantou a prioridade desta tarefa de "%s" para "%s".',
       '%s reopened this task as "%s".' => '%s reabriu esta tarefa como "%s".',
-      '%s changed the task status from "%s" to "%s".' => '%s mudou o status da tarefa de "%s" para "%s"',
+      '%s changed the task status from %s to %s.' => '%s mudou o status da tarefa de %s para %s',
       '%s lowered the priority of this task from "%s" to "%s".' => '%s diminuiu a prioridade desta tarefa de "%s" para "%s".',
       '%s edited associated projects.' => '%s projetos associados editados.',
       '%s awarded a token.' => '%s premiado com um token.',
@@ -2614,7 +2614,13 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'User has not been awarded any badges.' => 'O usuário não recebeu nenhum selo.',
 
 
-
+      //===============================
+      'Assigned Tasks' => 'Tarefas atribuídas'
+      'No tasks found.' => 'Nenhuma tarefa encontrada.'
+      'Active Revisions' => 'Revisões Ativas'
+      'No revisions found.' => 'Nenhuma revisão foi encontrada.'
+      'Active Repositories' => 'Repositórios Ativos'
+      'No repositories found for this query.' => 'Nenhum repositório encontrado para esta consulta.'
 
     );
   }
