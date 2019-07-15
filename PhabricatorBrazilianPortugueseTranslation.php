@@ -2296,7 +2296,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
 
       // //Projetos
       // 'Workboard' => 'Quadro de Trabalho',
-      // 'Members' => 'Membros',
+      'Members' => 'Membros',
       // 'Members and Watchers' => 'Membros e observadores',
       // 'Subprojects' => 'Subprojetos',
       // 'Subprojects and Milestones' => 'Subprojetos e Marcos',
@@ -2635,12 +2635,20 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Task' => 'Tarefa',
       'Done' => "Feito",
       "Edit Favorites" => "Editar Favoritos",
-      'Favorites' => 'Favoritos',
+      'FAVORITES' => 'FAVORITOS',
       'Search' => 'Procurar',
       'Edit Query' => 'Editar Consulta',
+      'Edit Queries...' => 'Editar Consultas...',
+
       'Hide Query' => 'Ocultar Consulta',
       'Export Data' => 'Exportar dados',
       'Advanced Search' => 'Busca Avançada',
+      'Query' => 'Consulta',
+      'Mute Notifications' => 'Silenciar Notificações',
+      'Mute' => 'Silenciar',
+      'Mute this object? You will no longer receive notifications or email about it.' => 'Silencie esse objeto? Você não receberá mais notificações ou enviará um e-mail sobre isso.',
+      'You are automatically subscribed to this object.' => 'Você está automaticamente inscrito nesse objeto.',
+      'Type a user, project, package, or maling list name...' => 'Digite um usuário, projeto, pacote, ou o nome da lista de discussão ...',
 
     );
   }
