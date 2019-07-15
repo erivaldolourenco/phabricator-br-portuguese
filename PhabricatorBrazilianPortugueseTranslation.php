@@ -2297,6 +2297,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       // //Projetos
       // 'Workboard' => 'Quadro de Trabalho',
       'Members' => 'Membros',
+      'Member' => 'Membro',
       // 'Members and Watchers' => 'Membros e observadores',
       // 'Subprojects' => 'Subprojetos',
       // 'Subprojects and Milestones' => 'Subprojetos e Marcos',
