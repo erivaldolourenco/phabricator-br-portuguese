@@ -2622,6 +2622,26 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Active Repositories' => 'Repositórios Ativos',
       'No repositories found for this query.' => 'Nenhum repositório encontrado para esta consulta.',
 
+       // Actions
+      'View Herald Transcript' => 'Visualizar Transcrição do Mensageiro',
+      'Create Notification Rules' => "Criar regras de notificação",
+      'Comment' => 'Comentario',
+      'Change Status' => 'Mudar Status',
+      'Reassign / Claim' => 'Reatribuição / Reivindicar',
+      'Assign / Claim' => 'Atribuir / Reivindicar',
+      'Add CCs' => 'Adicionar CCs',
+      'Change Priority' => 'Alterar Prioridade',
+      'Associate Projects' => 'Associar Projeto',
+      'Task' => 'Tarefa',
+      'Done' => "Feito",
+      "Edit Favorites" => "Editar Favoritos",
+      'Favorites' => 'Favoritos',
+      'Search' => 'Procurar',
+      'Edit Query' => 'Editar Consulta',
+      'Hide Query' => 'Ocultar Consulta'
+      'Export Data' => 'Exportar dados',
+      'Advanced Search' => 'Busca Avançada',
+
     );
   }
 
