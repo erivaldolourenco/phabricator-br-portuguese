@@ -2638,7 +2638,7 @@ final class PhabricatorBrazilianPortugueseTranslation extends PhutilTranslation
       'Favorites' => 'Favoritos',
       'Search' => 'Procurar',
       'Edit Query' => 'Editar Consulta',
-      'Hide Query' => 'Ocultar Consulta'
+      'Hide Query' => 'Ocultar Consulta',
       'Export Data' => 'Exportar dados',
       'Advanced Search' => 'Busca Avançada',
 
